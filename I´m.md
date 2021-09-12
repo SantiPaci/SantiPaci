@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SantiPaci
+- 👀 I’m interested in ... HTML, CSS, JS & PYTHON 
+- 🌱 I’m currently learning ... HTML ,CSS... 
